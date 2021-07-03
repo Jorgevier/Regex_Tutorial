@@ -109,8 +109,8 @@ Matching an email does not have any of the 6 flags in it
 The  \d is an escape it mean any number from 0 thru 9
 
 ## Resourses
-youtube
-google 
+youtube, 
+google, 
 https://javascript.info/regexp-introduction
 
 ## Author
